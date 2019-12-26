@@ -1,0 +1,56 @@
+Сердце:
+ - Hills k\d
+ - R.C. Early Cardiac
+
+
+
+Почки, моч.п.:
+ - Hills c\d, k\d, s\d
+ - R.C. Urinary S/O, Renal
+
+
+
+Печень:
+ - Hills l\d
+ - R.C. Hepatic.
+
+
+
+Кожа,аллергия:
+ - Hills d\d, z\d
+ - R.C. Skin Support,      Hair&Skin
+     Sensitivity Control
+
+
+Поджелудочная:
+ - Hills i\d
+ - R.C Digestive Low Fat, 
+   Intestinal
+
+
+
+Кишечник:
+ - Hills i\d
+ - R.C. Intestinal
+
+
+
+Суставы:
+ - Hills j\d
+ - R.C.
+
+Ожирение:
+ - Hills r\d, w\d, m\d
+ - R.C. Obesity 
+
+Сахарный диабет:
+ - Hills m\d
+ - R.C. Diabetic Special Low
+
+Зубы:
+ - Hills t\d
+ - R.C.
+
+Выздоровление:
+ - Hills a\d
+ - R.C. Recovery, Intestinal, Convalescence
